@@ -1,7 +1,7 @@
 # A03
 
 
-# PART 1: Tutorial on setting up git/webstorm/github.
+# PART 1: Tutorial on setting up Git/Webstorm/Github.
 
 1. Set up Git
 
@@ -9,11 +9,14 @@ Git is a version control system used for tracking changes in computer files and 
 
 Once Git is installed, you will need to configure it for your user account. You can do this by running the command “git config --global user.name <your_name>” and “git config --global user.email <your_email>” in the terminal.
 
+
 2. Set up Webstorm
 
 Webstorm is an integrated development environment (IDE) for web development. To set up Webstorm, you will first need to download the latest version of the software. Once downloaded, you will need to install and configure the IDE.
 
 Once Webstorm is installed, you will need to configure your project settings. This includes selecting the version control system (Git) and setting up the project’s working directory.
+
+
 
 3. Set up Github
 
@@ -28,7 +31,7 @@ You can then view the changes on the Github website.
 These steps will help you get started with setting up Git, Webstorm, and Github. 
 
 
- 
+
 
 # Part 2: Glossary to include these terms in a bulleted list.
 
